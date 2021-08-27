@@ -1,3 +1,10 @@
+### Full demonstration available at [this French video : https://www.youtube.com/watch?v=whm1VQsnIv4](https://www.youtube.com/watch?v=whm1VQsnIv4).
+<br />
+
+
+
+
+
 ```python
 import pandas as pd
 import numpy as np
